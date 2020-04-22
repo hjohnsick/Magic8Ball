@@ -1,0 +1,13 @@
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.exe
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.deps.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.runtimeconfig.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.runtimeconfig.dev.json
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\bin\Debug\netcoreapp3.1\Magic8Ball.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.csprojAssemblyReference.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.csproj.CoreCompileInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.AssemblyInfoInputs.cache
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.AssemblyInfo.cs
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.dll
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.pdb
+C:\Users\hjohnsick\Desktop\GrandCircusLabs\Magic8Ball\Magic8Ball\obj\Debug\netcoreapp3.1\Magic8Ball.genruntimeconfig.cache
